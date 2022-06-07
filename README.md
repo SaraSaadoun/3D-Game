@@ -1,2 +1,3 @@
-# Game-Project
-This is a game developed using python (openGL library) 
+# 3D-Game-Project
+This game is developed using python (openGL library) as a final project of Graphics Course (for educational purposes)
+

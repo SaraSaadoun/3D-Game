@@ -8,11 +8,12 @@
 
 
 <h2 id ="1"> Description </h2>
-<p>The main ball -which represents the player- moving on a road tries to collect all other balls of the same color, as a result increasing the score. In case of hitting another ball that has a different color, it dies and the game is over!</p>
-
-<p>The game is endless. So, as the score increases, the levels is getting harder. The Difficulty of the game depends mainly on increasing the number of balls -either of the same or distinct color-. In addition, moving walls which change the main ball color when passing through it.</p>
-
-<p>Besides, There exist some interface frames for start , Pause, winning, continue, Game Over!</p>
+The main ball represents the player moving on a road. Its goal is to collect balls of the same color to increase the score. However, if it hits a ball of a different color, the game ends.
+<br>
+The game doesn't have a limit, so as the score goes up, the levels become more challenging. The difficulty depends on how many balls there are, whether they are the same color or different.
+Additionally, there are moving walls that change the color of the main ball when it passes through them.
+<br>
+There are different screens for starting, pausing, winning, continuing, and ending the game.
 
 <h2 id="2"> Video </h2> 
 <a href="https://drive.google.com/file/d/14qHQKIa-SCGNBOLy-4XdEDa9aC2_eLv-/view?usp=sharing">Click Here</a>
